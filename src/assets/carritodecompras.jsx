@@ -32,7 +32,6 @@ const Cart = ({ cart, removeFromCart }) => {
     </div>
   );
 };
-
 const styles = {
   container: {
     padding: "20px",
